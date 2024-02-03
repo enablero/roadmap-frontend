@@ -14,8 +14,8 @@ Step by step guide to becoming a modern frontend developer in 2023
 
 ### [Git Tutorials](https://www.youtube.com/watch?v=evknSAkUIvs&list=PLu0W_9lII9agwhy658ZPA0MTStKUJTWPi)
 
-- [ ] What is Git/GitHub & Why do we need it? | Git Tutorials #1
-- [ ] Installing Git + Initial Setup? | Git Tutorials #2
+- [x] What is Git/GitHub & Why do we need it? | Git Tutorials #1
+- [x] Installing Git + Initial Setup? | Git Tutorials #2
 - [ ] Git: Three Stage Architecture | Git Tutorials #3
 - [ ] Tracking Our first Git Project | Git Tutorials #4
 - [ ] Cloning a Remote Git Repository from GitHub | Git Tutorials #5
