@@ -6,7 +6,7 @@ Step by step guide to becoming a modern frontend developer in 2023
 
 ### [Visual Studio Code Editor - The Complete Guide](https://www.udemy.com/course/visual-studio-code-editor-the-complete-guide/)
 
-- [ ] The Basics
+- [x] The Basics
 - [ ] Customizing Visual Studio Code
 - [ ] Write Code 10x Faster Using Advance Shortcuts
 - [ ] Emmet's In Visual Studio Code
