@@ -16,14 +16,14 @@ Step by step guide to becoming a modern frontend developer in 2023
 
 - [x] What is Git/GitHub & Why do we need it? | Git Tutorials #1
 - [x] Installing Git + Initial Setup? | Git Tutorials #2
-- [ ] Git: Three Stage Architecture | Git Tutorials #3
-- [ ] Tracking Our first Git Project | Git Tutorials #4
-- [ ] Cloning a Remote Git Repository from GitHub | Git Tutorials #5
-- [ ] Git: File Status Lifecycle | Git Tutorials #6
-- [ ] .gitignore: Ignoring Files in Git | Git Tutorials #7
-- [ ] Git Diff: Showing Changes Between Commits/Staging Area & Working Directory | Git Tutorials #8
-- [ ] Git: Skipping The Staging Area | Git Tutorials #9
-- [ ] Moving and Renaming Files In Git | Git Tutorials #10
+- [x] Git: Three Stage Architecture | Git Tutorials #3
+- [x] Tracking Our first Git Project | Git Tutorials #4
+- [x] Cloning a Remote Git Repository from GitHub | Git Tutorials #5
+- [x] Git: File Status Lifecycle | Git Tutorials #6
+- [x] .gitignore: Ignoring Files in Git | Git Tutorials #7
+- [x] Git Diff: Showing Changes Between Commits/Staging Area & Working Directory | Git Tutorials #8
+- [x] Git: Skipping The Staging Area | Git Tutorials #9
+- [x] Moving and Renaming Files In Git | Git Tutorials #10
 - [ ] Git Log: Viewing & Changing Commits In Git | Git Tutorials #11
 - [ ] Unstaging & Unmodifying Files In Git | Git Tutorials #12
 - [ ] GitHub: Working with Remote Repositories | Git Tutorials #13
