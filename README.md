@@ -24,12 +24,12 @@ Step by step guide to becoming a modern frontend developer in 2023
 - [x] Git Diff: Showing Changes Between Commits/Staging Area & Working Directory | Git Tutorials #8
 - [x] Git: Skipping The Staging Area | Git Tutorials #9
 - [x] Moving and Renaming Files In Git | Git Tutorials #10
-- [ ] Git Log: Viewing & Changing Commits In Git | Git Tutorials #11
-- [ ] Unstaging & Unmodifying Files In Git | Git Tutorials #12
-- [ ] GitHub: Working with Remote Repositories | Git Tutorials #13
-- [ ] Setting Alias In Git | Git Tutorials #14
-- [ ] Git: Creating & Switching Branches In Git | Git Tutorials #15
-- [ ] Branching & Merging a Production Grade Project | Git Tutorials #16
+- [x] Git Log: Viewing & Changing Commits In Git | Git Tutorials #11
+- [x] Unstaging & Unmodifying Files In Git | Git Tutorials #12
+- [x] GitHub: Working with Remote Repositories | Git Tutorials #13
+- [x] Setting Alias In Git | Git Tutorials #14
+- [x] Git: Creating & Switching Branches In Git | Git Tutorials #15
+- [x] Branching & Merging a Production Grade Project | Git Tutorials #16
 - [ ] Resolving Merge Conflicts (With Example) | Git Tutorials #17
 - [ ] Git Branching Workflow in Production | Git Tutorials #18
 - [ ] Pushing Git Branches To Remote Repositories | Git Tutorials #19
