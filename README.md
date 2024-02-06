@@ -30,9 +30,9 @@ Step by step guide to becoming a modern frontend developer in 2023
 - [x] Setting Alias In Git | Git Tutorials #14
 - [x] Git: Creating & Switching Branches In Git | Git Tutorials #15
 - [x] Branching & Merging a Production Grade Project | Git Tutorials #16
-- [ ] Resolving Merge Conflicts (With Example) | Git Tutorials #17
-- [ ] Git Branching Workflow in Production | Git Tutorials #18
-- [ ] Pushing Git Branches To Remote Repositories | Git Tutorials #19
+- [x] Resolving Merge Conflicts (With Example) | Git Tutorials #17
+- [x] Git Branching Workflow in Production | Git Tutorials #18
+- [x] Pushing Git Branches To Remote Repositories | Git Tutorials #19
 
 ## WEEK 02
 
