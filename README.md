@@ -194,11 +194,11 @@ Step by step guide to becoming a modern frontend developer in 2023
 
 ### [Material UI - The Complete Guide With React (2023) Edition](https://www.udemy.com/course/material-ui/)
 
-- [ ] Introduction
-- [ ] Setting Up Environment
-- [ ] Diving into Material UI Components One By One
-- [ ] Form Handling
-- [ ] Header Navigation Bar Components
+- [x] Introduction
+- [x] Setting Up Environment
+- [x] Diving into Material UI Components One By One
+- [x] Form Handling
+- [x] Header Navigation Bar Components
 - [ ] Advance Components
 - [ ] Advanced Validations With React Hook Form
 - [ ] Data Grid
