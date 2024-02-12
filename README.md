@@ -201,7 +201,7 @@ Step by step guide to becoming a modern frontend developer in 2023
 - [x] Header Navigation Bar Components
 - [x] Advance Components
 - [x] Advanced Validations With React Hook Form
-- [ ] Data Grid
+- [x] Data Grid
 - [ ] Advanced Data Grid With Project
 - [ ] Theming and Styling
 - [ ] Advance Styling with styled function
