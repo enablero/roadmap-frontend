@@ -209,9 +209,9 @@ Step by step guide to becoming a modern frontend developer in 2023
 - [x] Icons
 - [x] Grid System
 - [x] Advanced - Responsive Styles
-- [ ] GRID Project - Build Responsive Navigation Bar With Material UI
-- [ ] (Material UI Official) Responsive Navigation bar With Flexbox
-- [ ] Login / Signup Page With Material UI
+- [x] GRID Project - Build Responsive Navigation Bar With Material UI
+- [x] (Material UI Official) Responsive Navigation bar With Flexbox
+- [x] Login / Signup Page With Material UI
 
 ## WEEK 20
 
