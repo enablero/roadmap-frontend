@@ -217,7 +217,7 @@ Step by step guide to becoming a modern frontend developer in 2023
 
 ### [Material UI - The Complete Guide With React (2023) Edition](https://www.udemy.com/course/material-ui/)
 
-- [ ] Major Project (Design Modern UI UX Homepage of a Software Application)
+- [x] Major Project (Design Modern UI UX Homepage of a Software Application)
 - [ ] Material UI With Typescript
 - [ ] A Major Full Stack Project ( Travel Blog Posting Application )
 
