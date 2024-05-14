@@ -223,16 +223,49 @@ Step by step guide to becoming a modern frontend developer in 2023
 
 ## WEEK 21
 
-### Practice Project - Yet to Decide
+### Practice Project
 
 ## WEEK 22
 
-### Practice Project - Yet to Decide
+### [Next.js 14 & React - The Complete Guide](https://www.udemy.com/course/nextjs-react-the-complete-guide)
+
+- [ ] Getting Started
+- [ ] Optional: React Refresher
+- [ ] NextJS Essentials (App Router)
+- [ ] Routing & Page Rendering - Deep Dive
 
 ## WEEK 23
 
-### Practice Project - Yet to Decide
+### [Next.js 14 & React - The Complete Guide](https://www.udemy.com/course/nextjs-react-the-complete-guide)
+
+- [ ] Data Fetching - Deep Dive
+- [ ] Mutating Data - Deep Dive
+- [ ] Understanding & Configuring Caching
+- [ ] NextJS App Optimizations
+- [ ] User Authentication
+- [ ] Roundup & Next Steps
 
 ## WEEK 24
 
-### Practice Project - Yet to Decide
+### [Next.js 14 & React - The Complete Guide](https://www.udemy.com/course/nextjs-react-the-complete-guide)
+
+- [ ] Pages & File-based Routing
+- [ ] Project Time: Working with File-based Routing
+- [ ] Page Pre-Rendering & Data Fetching
+- [ ] Project Time: Page Pre-rendering & Data Fetching
+- [ ] Optimizing NextJS Apps
+- [ ] Adding Backend Code with API Routes (Fullstack React)
+- [ ] Project Time: API Routes
+
+## WEEK 25
+
+### [Next.js 14 & React - The Complete Guide](https://www.udemy.com/course/nextjs-react-the-complete-guide)
+
+- [ ] Working with App-wide State (React Context)
+- [ ] Complete App Example: Build a Full Blog A to Z
+- [ ] Deploying NextJS Apps
+- [ ] Adding Authentication
+- [ ] Optional: NextJS Summary
+- [ ] Course Roundup
+
+## [Optional - Understanding TypeScript](https://www.udemy.com/course/understanding-typescript)
