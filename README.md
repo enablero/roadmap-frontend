@@ -6,11 +6,11 @@ Step by step guide to becoming a modern frontend developer
 
 ### [Visual Studio Code Editor - The Complete Guide](https://www.udemy.com/course/visual-studio-code-editor-the-complete-guide/)
 
-- [ ] The Basics
-- [ ] Customizing Visual Studio Code
-- [ ] Write Code 10x Faster Using Advance Shortcuts
-- [ ] Emmet's In Visual Studio Code
-- [ ] VSC Top Extensions
+- [✔] The Basics
+- [✔] Customizing Visual Studio Code
+- [✔] Write Code 10x Faster Using Advance Shortcuts
+- [✔] Emmet's In Visual Studio Code
+- [✔] VSC Top Extensions
 
 ### [Git Tutorials](https://www.youtube.com/watch?v=evknSAkUIvs&list=PLu0W_9lII9agwhy658ZPA0MTStKUJTWPi)
 
