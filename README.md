@@ -6,33 +6,33 @@ Step by step guide to becoming a modern frontend developer
 
 ### [Visual Studio Code Editor - The Complete Guide](https://www.udemy.com/course/visual-studio-code-editor-the-complete-guide/)
 
-- [ ] The Basics
-- [ ] Customizing Visual Studio Code
-- [ ] Write Code 10x Faster Using Advance Shortcuts
-- [ ] Emmet's In Visual Studio Code
-- [ ] VSC Top Extensions
+- [✔] The Basics
+- [✔] Customizing Visual Studio Code
+- [✔] Write Code 10x Faster Using Advance Shortcuts
+- [✔] Emmet's In Visual Studio Code
+- [✔] VSC Top Extensions
 
 ### [Git Tutorials](https://www.youtube.com/watch?v=evknSAkUIvs&list=PLu0W_9lII9agwhy658ZPA0MTStKUJTWPi)
 
-- [ ] What is Git/GitHub & Why do we need it? | Git Tutorials #1
-- [ ] Installing Git + Initial Setup? | Git Tutorials #2
-- [ ] Git: Three Stage Architecture | Git Tutorials #3
-- [ ] Tracking Our first Git Project | Git Tutorials #4
-- [ ] Cloning a Remote Git Repository from GitHub | Git Tutorials #5
-- [ ] Git: File Status Lifecycle | Git Tutorials #6
-- [ ] .gitignore: Ignoring Files in Git | Git Tutorials #7
-- [ ] Git Diff: Showing Changes Between Commits/Staging Area & Working Directory | Git Tutorials #8
-- [ ] Git: Skipping The Staging Area | Git Tutorials #9
-- [ ] Moving and Renaming Files In Git | Git Tutorials #10
-- [ ] Git Log: Viewing & Changing Commits In Git | Git Tutorials #11
-- [ ] Unstaging & Unmodifying Files In Git | Git Tutorials #12
-- [ ] GitHub: Working with Remote Repositories | Git Tutorials #13
-- [ ] Setting Alias In Git | Git Tutorials #14
-- [ ] Git: Creating & Switching Branches In Git | Git Tutorials #15
-- [ ] Branching & Merging a Production Grade Project | Git Tutorials #16
-- [ ] Resolving Merge Conflicts (With Example) | Git Tutorials #17
-- [ ] Git Branching Workflow in Production | Git Tutorials #18
-- [ ] Pushing Git Branches To Remote Repositories | Git Tutorials #19
+- [✔] What is Git/GitHub & Why do we need it? | Git Tutorials #1
+- [✔] Installing Git + Initial Setup? | Git Tutorials #2
+- [✔] Git: Three Stage Architecture | Git Tutorials #3
+- [✔] Tracking Our first Git Project | Git Tutorials #4
+- [✔] Cloning a Remote Git Repository from GitHub | Git Tutorials #5
+- [✔] Git: File Status Lifecycle | Git Tutorials #6
+- [✔] .gitignore: Ignoring Files in Git | Git Tutorials #7
+- [✔] Git Diff: Showing Changes Between Commits/Staging Area & Working Directory | Git Tutorials #8
+- [✔] Git: Skipping The Staging Area | Git Tutorials #9
+- [✔] Moving and Renaming Files In Git | Git Tutorials #10
+- [✔] Git Log: Viewing & Changing Commits In Git | Git Tutorials #11
+- [✔] Unstaging & Unmodifying Files In Git | Git Tutorials #12
+- [✔] GitHub: Working with Remote Repositories | Git Tutorials #13
+- [✔] Setting Alias In Git | Git Tutorials #14
+- [✔] Git: Creating & Switching Branches In Git | Git Tutorials #15
+- [✔] Branching & Merging a Production Grade Project | Git Tutorials #16
+- [✔] Resolving Merge Conflicts (With Example) | Git Tutorials #17
+- [✔] Git Branching Workflow in Production | Git Tutorials #18
+- [✔] Pushing Git Branches To Remote Repositories | Git Tutorials #19
 
 ## WEEK 02
 
