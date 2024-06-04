@@ -24,10 +24,10 @@ Step by step guide to becoming a modern frontend developer
 - [✔] Git Diff: Showing Changes Between Commits/Staging Area & Working Directory | Git Tutorials #8
 - [✔] Git: Skipping The Staging Area | Git Tutorials #9
 - [✔] Moving and Renaming Files In Git | Git Tutorials #10
-- [ ] Git Log: Viewing & Changing Commits In Git | Git Tutorials #11
-- [ ] Unstaging & Unmodifying Files In Git | Git Tutorials #12
-- [ ] GitHub: Working with Remote Repositories | Git Tutorials #13
-- [ ] Setting Alias In Git | Git Tutorials #14
+- [✔] Git Log: Viewing & Changing Commits In Git | Git Tutorials #11
+- [✔] Unstaging & Unmodifying Files In Git | Git Tutorials #12
+- [✔] GitHub: Working with Remote Repositories | Git Tutorials #13
+- [✔] Setting Alias In Git | Git Tutorials #14
 - [ ] Git: Creating & Switching Branches In Git | Git Tutorials #15
 - [ ] Branching & Merging a Production Grade Project | Git Tutorials #16
 - [ ] Resolving Merge Conflicts (With Example) | Git Tutorials #17
