@@ -38,8 +38,8 @@ Step by step guide to becoming a modern frontend developer
 
 ### [Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
 
-- [ ] Welcome and First Steps
-- [ ] HTML Fundamentals
+- [✔] Welcome and First Steps
+- [✔] HTML Fundamentals
 - [ ] CSS Fundamentals
 - [ ] Layouts: Floats, Flexbox, and CSS Grid Fundamentals
 
