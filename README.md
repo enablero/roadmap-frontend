@@ -28,11 +28,11 @@ Step by step guide to becoming a modern frontend developer
 - [✔] Unstaging & Unmodifying Files In Git | Git Tutorials #12
 - [✔] GitHub: Working with Remote Repositories | Git Tutorials #13
 - [✔] Setting Alias In Git | Git Tutorials #14
-- [ ] Git: Creating & Switching Branches In Git | Git Tutorials #15
-- [ ] Branching & Merging a Production Grade Project | Git Tutorials #16
-- [ ] Resolving Merge Conflicts (With Example) | Git Tutorials #17
-- [ ] Git Branching Workflow in Production | Git Tutorials #18
-- [ ] Pushing Git Branches To Remote Repositories | Git Tutorials #19
+- [✔] Git: Creating & Switching Branches In Git | Git Tutorials #15
+- [✔] Branching & Merging a Production Grade Project | Git Tutorials #16
+- [✔] Resolving Merge Conflicts (With Example) | Git Tutorials #17
+- [✔] Git Branching Workflow in Production | Git Tutorials #18
+- [✔] Pushing Git Branches To Remote Repositories | Git Tutorials #19
 
 ## WEEK 02
 
