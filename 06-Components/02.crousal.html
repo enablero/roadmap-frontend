@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Crousal</title>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      body {
+        font-family: "Inter", sans-serif;
+        color: #343a40;
+        line-height: 1;
+      }
+
+      .main {
+        position: relative;
+      }
+
+      .content {
+        max-width: 900px;
+        background-color: #087f5b;
+        margin-top: 80px;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 32px;
+        color: white;
+        display: flex;
+        justify-content: space-between;
+        gap: 16px;
+      }
+
+      img {
+        border-radius: 10px;
+        position: absolute;
+        top: -10px;
+      }
+
+      .part2 {
+        display: flex;
+        flex-direction: column;
+        gap: 60px;
+        padding-left: 300px;
+      }
+
+      .description {
+        font-size: 18px;
+        line-height: 1.6;
+      }
+
+      .footer {
+        display: flex;
+        flex-direction: column;
+        gap: 5px;
+      }
+
+      .icon1 {
+        position: absolute;
+        left: 195px;
+        top: 130px;
+        height: 32px;
+        width: 32px;
+        background-color: white;
+        border-radius: 100%;
+        box-shadow: 0 0 32px rgba(0, 0, 0, 0.1);
+      }
+
+      .icon2 {
+        position: absolute;
+        right: 195px;
+        top: 130px;
+        height: 32px;
+        width: 32px;
+        background-color: white;
+        border-radius: 100%;
+      }
+      .bottom {
+        display: flex;
+        gap: 5px;
+        margin-top: 20px;
+        width: 50px;
+        margin-left: auto;
+        margin-right: auto;
+      }
+
+      .dot {
+        height: 10px;
+        width: 10px;
+        background-color: #087f5b;
+        border-radius: 100%;
+      }
+      .dot1 {
+        height: 10px;
+        width: 10px;
+        border: 1px solid #087f5b;
+        border-radius: 100%;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="main">
+      <svg
+        xmlns="http://www.w3.org/2000/svg"
+        fill="none"
+        viewBox="0 0 24 24"
+        stroke-width="1.5"
+        stroke="currentColor"
+        class="icon1"
+      >
+        <path
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          d="M15.75 19.5 8.25 12l7.5-7.5"
+        />
+      </svg>
+      <div class="content">
+        <div class="part1">
+          <img
+            src="/06-Components/assets/maria.jpg"
+            height="300px"
+            width="300px"
+          />
+        </div>
+        <div class="part2">
+          <p class="description">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem
+            dolorum repudiandae facilis fuga asperiores et porro impedit
+            suscipit qui quia odit explicabo molestiae adipisci quod provident,
+            repellendus magnam consectetur velit?
+          </p>
+          <div class="footer">
+            <p>Maria di Almddia</p>
+            <p>Senior Product Manager at EDP Commercial</p>
+          </div>
+        </div>
+      </div>
+      <svg
+        xmlns="http://www.w3.org/2000/svg"
+        fill="none"
+        viewBox="0 0 24 24"
+        stroke-width="1.5"
+        stroke="currentColor"
+        class="icon2"
+      >
+        <path
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          d="m8.25 4.5 7.5 7.5-7.5 7.5"
+        />
+      </svg>
+    </div>
+    <div class="bottom">
+      <div class="dot"></div>
+      <div class="dot1"></div>
+      <div class="dot1"></div>
+      <div class="dot1"></div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap"
+      rel="stylesheet"
+    />
+    <title>Accordion Component</title>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      body {
+        font-family: "Inter", sans-serif;
+        color: #343a40;
+        /* background-color: rgb(187, 187, 187); */
+        line-height: 1;
+      }
+      .accordion {
+        width: 700px;
+        margin: 100px auto;
+        background-color: white;
+        border-top: 5px solid #087f5b;
+      }
+      .accordion2 {
+        width: 700px;
+        margin: 100px auto;
+        background-color: white;
+      }
+      .item {
+        box-shadow: 0 0 32px rgba(0, 0, 0, 0.1);
+        padding: 24px;
+      }
+      .icon {
+        height: 24px;
+        width: 24px;
+        stroke: #087f5b;
+        transform: translateX(70px);
+      }
+      .number {
+        transform: translateX(-20px);
+      }
+      .heading {
+        font-size: 24px;
+        font-weight: 500;
+        color: #087f5b;
+        padding: 18px;
+        display: flex;
+        justify-content: safe;
+        gap: 24px;
+      }
+      .hidden-box {
+        padding-left: 42px;
+        padding-right: 42px;
+      }
+      .hidden-box p {
+        padding-left: 36px;
+        padding-right: 36px;
+        line-height: 1.6;
+        margin-bottom: 24px;
+      }
+      .hidden-box ul {
+        color: #686d72;
+        margin-left: 32px;
+        margin-right: 32px;
+        transform: translateX(20px);
+
+        display: flex;
+        flex-direction: column;
+        row-gap: 12px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="accordion2">
+      <div class="item">
+        <div class="heading">
+          <p class="number">01</p>
+          <p class="text">How long do I have to return my chair?</p>
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            fill="none"
+            viewBox="0 0 24 24"
+            stroke-width="1.5"
+            stroke="currentColor"
+            class="icon"
+          >
+            <path
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              d="m19.5 8.25-7.5 7.5-7.5-7.5"
+            />
+          </svg>
+        </div>
+      </div>
+    </div>
+    <div class="accordion">
+      <div class="item">
+        <div class="heading">
+          <p class="number">02</p>
+          <p class="text">How long do I have to return my chair?</p>
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            fill="none"
+            viewBox="0 0 24 24"
+            stroke-width="1.5"
+            stroke="currentColor"
+            class="icon"
+          >
+            <path
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              d="m19.5 8.25-7.5 7.5-7.5-7.5"
+            />
+          </svg>
+        </div>
+        <div class="hidden-box">
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero esse
+            facere officia eius autem, enim ullam aut inventore maxime saepe
+            necessitatibus repellat illo sequi veniam beatae blanditiis facilis
+            harum error.
+          </p>
+          <ul>
+            <li>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</li>
+            <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
+            <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
+            <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="accordion2">
+      <div class="item">
+        <div class="heading">
+          <p class="number">03</p>
+          <p class="text">How long do I have to return my chair?</p>
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            fill="none"
+            viewBox="0 0 24 24"
+            stroke-width="1.5"
+            stroke="currentColor"
+            class="icon"
+          >
+            <path
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              d="m19.5 8.25-7.5 7.5-7.5-7.5"
+            />
+          </svg>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
