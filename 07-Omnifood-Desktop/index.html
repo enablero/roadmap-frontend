@@ -1,31 +1,66 @@
 <!DOCTYPE html>
 <html lang="en">
-  <link>
+  <head>
     <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta
+      name="description"
+      content="Omnifood is an AI-powered food subscription that will make you eat healthy again, 365 days per year. It's tailored to your personal tastes and nutritional needs."
+    />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Omnifood</title>
+    <link rel="icon" href="/07-Omnifood-Desktop/content/img/favicon.png" />
+    <link
+      rel="apple-touch-icon"
+      href="/07-Omnifood-Desktop/content/img/apple-touch-icon.png"
+    />
+    <link rel="manifest" href="manifest.webmanifest" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
       href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap"
       rel="stylesheet"
     />
-    <link rel="stylesheet" href="style.css">
+    <title>Omnifood &mdash; Never cook again!</title>
+    <script
+      type="module"
+      src="https://unpkg.com/ionicons@5.4.0/dist/ionicons/ionicons.esm.js"
+    ></script>
+    <script
+      nomodule=""
+      src="https://unpkg.com/ionicons@5.4.0/dist/ionicons/ionicons.js"
+    ></script>
+    <script
+      defer
+      src="https://unpkg.com/smoothscroll-polyfill@0.4.4/dist/smoothscroll.min.js"
+    ></script>
+    <script src="script.js"></script>
+    <link rel="stylesheet" href="style.css" />
   </head>
   <body>
     <header class="header">
       <a href="#">
-        <img class="logo" alt="Omnifood logo" src="/07-Omnifood-Desktop/content/img/omnifood-logo.png" />
+        <img
+          class="logo"
+          alt="Omnifood logo"
+          src="/07-Omnifood-Desktop/content/img/omnifood-logo.png"
+        />
       </a>
       <nav class="main-nav">
         <ul class="main-nav-list">
-          <li><a class="main-nav-link" href="#">How it works</a></li>
-          <li><a class="main-nav-link" href="#">Meals</a></li>
-          <li><a class="main-nav-link" href="#">Testimonials</a></li>
-          <li><a class="main-nav-link" href="#">Pricing</a></li>
-          <li><a class="main-nav-link nav-cta" href="#">Try for free</a></li>
+          <li><a class="main-nav-link" href="#how">How it works</a></li>
+          <li><a class="main-nav-link" href="#meals">Meals</a></li>
+          <li>
+            <a class="main-nav-link" href="#testimonials">Testimonials</a>
+          </li>
+          <li><a class="main-nav-link" href="#pricing">Pricing</a></li>
+          <li><a class="main-nav-link nav-cta" href="#cta">Try for free</a></li>
         </ul>
       </nav>
+
+      <button class="btn-mobile-nav">
+        <ion-icon class="icon-mobile-nav" name="menu-outline"></ion-icon>
+        <ion-icon class="icon-mobile-nav" name="close-outline"></ion-icon>
+      </button>
     </header>
 
     <main>
@@ -40,18 +75,36 @@
               eat healthy again. Tailored to your personal tastes and
               nutritional needs.
             </p>
-            <a href="#" class="btn btn--full margin-right-sm"
+            <a href="#cta" class="btn btn--full margin-right-sm"
               >Start eating well</a
             >
             <a href="#" class="btn btn--outline">Learn more &darr;</a>
             <div class="delivered-meals">
               <div class="delivered-imgs">
-                <img src="/07-Omnifood-Desktop/content/img/customers/customer-1.jpg" alt="Customer photo" />
-                <img src="/07-Omnifood-Desktop/content/img/customers/customer-2.jpg" alt="Customer photo" />
-                <img src="/07-Omnifood-Desktop/content/img/customers/customer-3.jpg" alt="Customer photo" />
-                <img src="/07-Omnifood-Desktop/content/img/customers/customer-4.jpg" alt="Customer photo" />
-                <img src="/07-Omnifood-Desktop/content/img/customers/customer-5.jpg" alt="Customer photo" />
-                <img src="/07-Omnifood-Desktop/content/img/customers/customer-6.jpg" alt="Customer photo" />
+                <img
+                  src="/07-Omnifood-Desktop/content/img/customers/customer-1.jpg"
+                  alt="Customer photo"
+                />
+                <img
+                  src="/07-Omnifood-Desktop/content/img/customers/customer-2.jpg"
+                  alt="Customer photo"
+                />
+                <img
+                  src="/07-Omnifood-Desktop/content/img/customers/customer-3.jpg"
+                  alt="Customer photo"
+                />
+                <img
+                  src="/07-Omnifood-Desktop/content/img/customers/customer-4.jpg"
+                  alt="Customer photo"
+                />
+                <img
+                  src="/07-Omnifood-Desktop/content/img/customers/customer-5.jpg"
+                  alt="Customer photo"
+                />
+                <img
+                  src="/07-Omnifood-Desktop/content/img/customers/customer-6.jpg"
+                  alt="Customer photo"
+                />
               </div>
               <p class="delivered-text">
                 <span>250,000+</span> meals delivered last year!
@@ -59,11 +112,15 @@
             </div>
           </div>
           <div class="hero-img-box">
-            <img
+            <picture>
+              <source srcset="/07-Omnifood-Desktop/content/img/hero.webp" type="image/webp" />
+              <source srcset="/07-Omnifood-Desktop/content/img/hero-min.png" type="image/png" />
+              <img
               src="/07-Omnifood-Desktop/content/img/hero.png"
               class="hero-img"
               alt="Woman enjoying food, meals in storage container, and food bowls on a table"
             />
+            </picture>
           </div>
         </div>
       </section>
@@ -72,7 +129,10 @@
         <div class="container">
           <h2 class="heading-featured-in">As featured in</h2>
           <div class="logos">
-            <img src="/07-Omnifood-Desktop/content/img/logos/techcrunch.png" alt="Techcrunch logo" />
+            <img
+              src="/07-Omnifood-Desktop/content/img/logos/techcrunch.png"
+              alt="Techcrunch logo"
+            />
             <img
               src="/07-Omnifood-Desktop/content/img/logos/business-insider.png"
               alt="Business Insider logo"
@@ -81,13 +141,19 @@
               src="/07-Omnifood-Desktop/content/img/logos/the-new-york-times.png"
               alt="The New York Times logo"
             />
-            <img src="/07-Omnifood-Desktop/content/img/logos/forbes.png" alt="Forbes logo" />
-            <img src="/07-Omnifood-Desktop/content/img/logos/usa-today.png" alt="USA Today logo" />
+            <img
+              src="/07-Omnifood-Desktop/content/img/logos/forbes.png"
+              alt="Forbes logo"
+            />
+            <img
+              src="/07-Omnifood-Desktop/content/img/logos/usa-today.png"
+              alt="USA Today logo"
+            />
           </div>
         </div>
       </section>
 
-      <section class="section-how">
+      <section class="section-how" id="how">
         <div class="container">
           <span class="subheading">How it works</span>
           <h2 class="heading-secondary">
@@ -96,7 +162,6 @@
         </div>
 
         <div class="container grid grid--2-cols grid--center-v">
-
           <div class="step-text-box">
             <p class="step-number">01</p>
             <h3 class="heading-tertiary">
@@ -156,7 +221,7 @@
         </div>
       </section>
 
-      <section class="section-meals">
+      <section class="section-meals" id="meals">
         <div class="container center-text">
           <span class="subheading">Meals</span>
           <h2 class="heading-secondary">
@@ -276,7 +341,7 @@
         </div>
       </section>
 
-      <section class="section-testimonials">
+      <section class="section-testimonials" id="testimonials">
         <div class="testimonials-container">
           <span class="subheading">Testimonials</span>
           <h2 class="heading-secondary">Once you try it, you can't go back</h2>
@@ -424,7 +489,7 @@
         </div>
       </section>
 
-      <section class="section-pricing">
+      <section class="section-pricing" id="pricing">
         <div class="container">
           <span class="subheading">Pricing</span>
           <h2 class="heading-secondary">
@@ -534,7 +599,7 @@
         </div>
       </section>
 
-      <section class="section-cta">
+      <section class="section-cta" id="cta">
         <div class="container">
           <div class="cta">
             <div class="cta-text-box">
@@ -595,7 +660,11 @@
       <div class="container grid grid--footer">
         <div class="logo-col">
           <a href="#" class="footer-logo">
-            <img class="logo" alt="Omnifood logo" src="/07-Omnifood-Desktop/content/img/omnifood-logo.png" />
+            <img
+              class="logo"
+              alt="Omnifood logo"
+              src="/07-Omnifood-Desktop/content/img/omnifood-logo.png"
+            />
           </a>
 
           <ul class="social-links">
