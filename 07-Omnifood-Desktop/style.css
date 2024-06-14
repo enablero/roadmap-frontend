@@ -252,7 +252,6 @@ strong {
   border: none;
   background: none;
   cursor: pointer;
-
   display: none;
 }
 
@@ -263,6 +262,22 @@ strong {
 }
 
 .icon-mobile-nav[name="close-outline"] {
+  display: none;
+}
+
+.close-icon {
+  display: none;
+}
+
+.nav-open .menu-icon {
+  display: none;
+}
+
+.nav-open .close-icon {
+  display: block;
+}
+
+.hidden {
   display: none;
 }
 

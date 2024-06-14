@@ -33,7 +33,6 @@
       defer
       src="https://unpkg.com/smoothscroll-polyfill@0.4.4/dist/smoothscroll.min.js"
     ></script>
-    <script src="script.js"></script>
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
@@ -57,9 +56,9 @@
         </ul>
       </nav>
 
-      <button class="btn-mobile-nav">
-        <ion-icon class="icon-mobile-nav" name="menu-outline"></ion-icon>
-        <ion-icon class="icon-mobile-nav" name="close-outline"></ion-icon>
+      <button class="btn-mobile-nav" id="button-nav" type="button" title="burger-icon">
+        <ion-icon class="icon-mobile-nav menu-icon" name="menu-outline"></ion-icon>
+        <ion-icon class="icon-mobile-nav close-icon" name="close-outline"></ion-icon>
       </button>
     </header>
 
@@ -113,13 +112,19 @@
           </div>
           <div class="hero-img-box">
             <picture>
-              <source srcset="/07-Omnifood-Desktop/content/img/hero.webp" type="image/webp" />
-              <source srcset="/07-Omnifood-Desktop/content/img/hero-min.png" type="image/png" />
+              <source
+                srcset="/07-Omnifood-Desktop/content/img/hero.webp"
+                type="image/webp"
+              />
+              <source
+                srcset="/07-Omnifood-Desktop/content/img/hero-min.png"
+                type="image/png"
+              />
               <img
-              src="/07-Omnifood-Desktop/content/img/hero.png"
-              class="hero-img"
-              alt="Woman enjoying food, meals in storage container, and food bowls on a table"
-            />
+                src="/07-Omnifood-Desktop/content/img/hero.png"
+                class="hero-img"
+                alt="Woman enjoying food, meals in storage container, and food bowls on a table"
+              />
             </picture>
           </div>
         </div>
@@ -519,6 +524,7 @@
               </li>
               <li class="list-item">
                 <ion-icon class="list-icon" name="close-outline"></ion-icon>
+                <span>Get access to latest recipes</span>
               </li>
             </ul>
             <div class="plan-sing-up">
@@ -735,4 +741,5 @@
       </div>
     </footer>
   </body>
+  <script src="./script.js"></script>
 </html>

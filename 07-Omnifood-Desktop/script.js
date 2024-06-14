@@ -4,8 +4,10 @@ const btnNavEl = document.querySelector(".btn-mobile-nav");
 const headerEl = document.querySelector(".header");
 
 btnNavEl.addEventListener("click", function () {
-  headerEl.classList.toggle(".nav-open");
+  headerEl.classList.toggle("nav-open");
 });
+
+
 
 // Scrolling Animation
 
@@ -59,7 +61,7 @@ const obs = new IntersectionObserver(
     rootMargin: "-80px",
   }
 );
-// obs.observe(sectionHeroEl);
+obs.observe(sectionHeroEl);
 
 // Fixing flexbox gap property missing in some Safari versions
 function checkFlexGap() {
@@ -78,4 +80,4 @@ function checkFlexGap() {
 
   if (!isSupported) document.body.classList.add("no-flexbox-gap");
 }
-// checkFlexGap();
+checkFlexGap();
