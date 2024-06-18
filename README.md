@@ -54,15 +54,15 @@ Step by step guide to becoming a modern frontend developer
 
 ### [Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
 
-- [ ] Omnifood Project – Setup and Desktop Version
-- [ ] Omnifood Project – Responsive Web Design
+- [✔] Omnifood Project – Setup and Desktop Version
+- [✔] Omnifood Project – Responsive Web Design
 
 ## WEEK 05
 
 ### [Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
 
-- [ ] Omnifood Project – Effects, Optimizations and Deployment
-- [ ] The End!
+- [✔] Omnifood Project – Effects, Optimizations and Deployment
+- [✔] The End!
 
 ### [Tailwind CSS From Scratch | Learn By Building Projects](https://www.udemy.com/course/tailwind-from-scratch/)
 
@@ -90,10 +90,10 @@ Step by step guide to becoming a modern frontend developer
 
 ### [The Complete JavaScript Course 2023: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
 
-- [ ] Welcome, Welcome, Welcome!
-- [ ] JavaScript Fundamentals – Part 1
-- [ ] JavaScript Fundamentals – Part 2
-- [ ] How to Navigate This Course
+- [✔] Welcome, Welcome, Welcome!
+- [✔] JavaScript Fundamentals – Part 1
+- [✔] JavaScript Fundamentals – Part 2
+- [✔] How to Navigate This Course
 
 ## WEEK 09
 
