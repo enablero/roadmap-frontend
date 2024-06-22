@@ -1,6 +1,6 @@
 # Roadmap for Frontend Developer
 
-Step by step guide to becoming a modern frontend developer
+Step by step guide to becoming a modern frontend developer course.
 
 ## WEEK 01
 
