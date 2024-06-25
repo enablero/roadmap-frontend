@@ -102,7 +102,7 @@ Step by step guide to becoming a modern frontend developer
 - [✔] Developer Skills & Editor Setup
 - [ ] [OPTIONAL] HTML & CSS Crash Course
 - [✔] JavaScript in the Browser: DOM and Events Fundamentals
-- [ ] How JavaScript Works Behind the Scenes
+- [✔] How JavaScript Works Behind the Scenes
 
 ## WEEK 10
 
