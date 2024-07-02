@@ -40,8 +40,8 @@ Step by step guide to becoming a modern frontend developer course.
 
 - [✔] Welcome and First Steps
 - [✔] HTML Fundamentals
-- [ ] CSS Fundamentals
-- [ ] Layouts: Floats, Flexbox, and CSS Grid Fundamentals
+- [✔] CSS Fundamentals
+- [✔] Layouts: Floats, Flexbox, and CSS Grid Fundamentals
 
 ## WEEK 03
 
