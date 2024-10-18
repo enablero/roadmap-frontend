@@ -6,63 +6,63 @@ Step by step guide to becoming a modern frontend developer
 
 ### [Visual Studio Code Editor - The Complete Guide](https://www.udemy.com/course/visual-studio-code-editor-the-complete-guide/)
 
-- [ ] The Basics
-- [ ] Customizing Visual Studio Code
-- [ ] Write Code 10x Faster Using Advance Shortcuts
-- [ ] Emmet's In Visual Studio Code
-- [ ] VSC Top Extensions
+- [x] The Basics
+- [x] Customizing Visual Studio Code
+- [x] Write Code 10x Faster Using Advance Shortcuts
+- [x] Emmet's In Visual Studio Code
+- [x] VSC Top Extensions
 
 ### [Git Tutorials](https://www.youtube.com/watch?v=evknSAkUIvs&list=PLu0W_9lII9agwhy658ZPA0MTStKUJTWPi)
 
-- [ ] What is Git/GitHub & Why do we need it? | Git Tutorials #1
-- [ ] Installing Git + Initial Setup? | Git Tutorials #2
-- [ ] Git: Three Stage Architecture | Git Tutorials #3
-- [ ] Tracking Our first Git Project | Git Tutorials #4
-- [ ] Cloning a Remote Git Repository from GitHub | Git Tutorials #5
-- [ ] Git: File Status Lifecycle | Git Tutorials #6
-- [ ] .gitignore: Ignoring Files in Git | Git Tutorials #7
-- [ ] Git Diff: Showing Changes Between Commits/Staging Area & Working Directory | Git Tutorials #8
-- [ ] Git: Skipping The Staging Area | Git Tutorials #9
-- [ ] Moving and Renaming Files In Git | Git Tutorials #10
-- [ ] Git Log: Viewing & Changing Commits In Git | Git Tutorials #11
-- [ ] Unstaging & Unmodifying Files In Git | Git Tutorials #12
-- [ ] GitHub: Working with Remote Repositories | Git Tutorials #13
-- [ ] Setting Alias In Git | Git Tutorials #14
-- [ ] Git: Creating & Switching Branches In Git | Git Tutorials #15
-- [ ] Branching & Merging a Production Grade Project | Git Tutorials #16
-- [ ] Resolving Merge Conflicts (With Example) | Git Tutorials #17
-- [ ] Git Branching Workflow in Production | Git Tutorials #18
-- [ ] Pushing Git Branches To Remote Repositories | Git Tutorials #19
+- [x] What is Git/GitHub & Why do we need it? | Git Tutorials #1
+- [x] Installing Git + Initial Setup? | Git Tutorials #2
+- [x] Git: Three Stage Architecture | Git Tutorials #3
+- [x] Tracking Our first Git Project | Git Tutorials #4
+- [x] Cloning a Remote Git Repository from GitHub | Git Tutorials #5
+- [x] Git: File Status Lifecycle | Git Tutorials #6
+- [x] .gitignore: Ignoring Files in Git | Git Tutorials #7
+- [x] Git Diff: Showing Changes Between Commits/Staging Area & Working Directory | Git Tutorials #8
+- [x] Git: Skipping The Staging Area | Git Tutorials #9
+- [x] Moving and Renaming Files In Git | Git Tutorials #10
+- [x] Git Log: Viewing & Changing Commits In Git | Git Tutorials #11
+- [x] Unstaging & Unmodifying Files In Git | Git Tutorials #12
+- [x] GitHub: Working with Remote Repositories | Git Tutorials #13
+- [x] Setting Alias In Git | Git Tutorials #14
+- [x] Git: Creating & Switching Branches In Git | Git Tutorials #15
+- [x] Branching & Merging a Production Grade Project | Git Tutorials #16
+- [x] Resolving Merge Conflicts (With Example) | Git Tutorials #17
+- [x] Git Branching Workflow in Production | Git Tutorials #18
+- [x] Pushing Git Branches To Remote Repositories | Git Tutorials #19
 
 ## WEEK 02
 
 ### [Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
 
-- [ ] Welcome and First Steps
-- [ ] HTML Fundamentals
-- [ ] CSS Fundamentals
-- [ ] Layouts: Floats, Flexbox, and CSS Grid Fundamentals
+- [x] Welcome and First Steps
+- [x] HTML Fundamentals
+- [x] CSS Fundamentals
+- [x] Layouts: Floats, Flexbox, and CSS Grid Fundamentals
 
 ## WEEK 03
 
 ### [Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
 
-- [ ] Web Design Rules and Framework
-- [ ] Components and Layout Patterns
+- [x] Web Design Rules and Framework
+- [x] Components and Layout Patterns
 
 ## WEEK 04
 
 ### [Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
 
-- [ ] Omnifood Project – Setup and Desktop Version
-- [ ] Omnifood Project – Responsive Web Design
+- [x] Omnifood Project – Setup and Desktop Version
+- [x] Omnifood Project – Responsive Web Design
 
 ## WEEK 05
 
 ### [Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
 
-- [ ] Omnifood Project – Effects, Optimizations and Deployment
-- [ ] The End!
+- [x] Omnifood Project – Effects, Optimizations and Deployment
+- [x] The End!
 
 ### [Tailwind CSS From Scratch | Learn By Building Projects](https://www.udemy.com/course/tailwind-from-scratch/)
 
@@ -90,93 +90,95 @@ Step by step guide to becoming a modern frontend developer
 
 ### [The Complete JavaScript Course 2023: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
 
-- [ ] Welcome, Welcome, Welcome!
-- [ ] JavaScript Fundamentals – Part 1
-- [ ] JavaScript Fundamentals – Part 2
-- [ ] How to Navigate This Course
+- [x] Welcome, Welcome, Welcome!
+- [x] JavaScript Fundamentals – Part 1
+- [x] JavaScript Fundamentals – Part 2
+- [x] How to Navigate This Course
 
 ## WEEK 09
 
 ### [The Complete JavaScript Course 2023: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
 
-- [ ] Developer Skills & Editor Setup
+- [x] Developer Skills & Editor Setup
 - [ ] [OPTIONAL] HTML & CSS Crash Course
-- [ ] JavaScript in the Browser: DOM and Events Fundamentals
-- [ ] How JavaScript Works Behind the Scenes
+- [x] JavaScript in the Browser: DOM and Events Fundamentals
+- [x] How JavaScript Works Behind the Scenes
 
 ## WEEK 10
 
 ### [The Complete JavaScript Course 2023: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
 
-- [ ] Data Structures, Modern Operators and Strings
-- [ ] A Closer Look at Functions
-- [ ] Working With Arrays
+- [x] Data Structures, Modern Operators and Strings
+- [x] A Closer Look at Functions
+- [x] Working With Arrays
 
 ## WEEK 11
 
 ### [The Complete JavaScript Course 2023: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
 
-- [ ] Numbers, Dates, Intl and Timers
-- [ ] Advanced DOM and Events
-- [ ] Object-Oriented Programming (OOP) With JavaScript
+- [x] Numbers, Dates, Intl and Timers
+- [x] Advanced DOM and Events
+- [x] Object-Oriented Programming (OOP) With JavaScript
 
 ## WEEK 12
 
 ### [The Complete JavaScript Course 2023: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
 
-- [ ] Mapty App: OOP, Geolocation, External Libraries, and More!
-- [ ] Asynchronous JavaScript: Promises, Async/Await, and AJAX
-- [ ] Modern JavaScript Development: Modules, Tooling, and Functional
+- [x] Mapty App: OOP, Geolocation, External Libraries, and More!
+- [x] Asynchronous JavaScript: Promises, Async/Await, and AJAX
+- [x] Modern JavaScript Development: Modules, Tooling, and Functional
 
 ## WEEK 13
 
 ### [The Complete JavaScript Course 2023: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
 
-- [ ] Forkify App: Building a Modern Application
+- [x] Forkify App: Building a Modern Application
 - [ ] Setting Up Git and Deployment
 - [ ] The End!
 
 ## WEEK 14
 
-### Practice Project - ToDo Application
+### [x] Practice Project - ToDo Application
 
 ## WEEK 15
 
 ### [React - The Complete Guide 2023 (incl. React Router & Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
 
-- [ ] Getting Started
-- [ ] JavaScript Refresher
-- [ ] React Basics & Working With Components
-- [ ] Time to Practice: Component Basics
-- [ ] React State & Working with Events
-- [ ] Rendering Lists & Conditional Content
-- [ ] Styling React Components
-- [ ] Debugging React Apps
-- [ ] Time to Practice: A Complete Practice Project
+- [x] Getting Started
+- [x] JavaScript Refresher
+- [x] React Basics & Working With Components
+- [x] Time to Practice: Component Basics
+- [x] React State & Working with Events
+- [x] Rendering Lists & Conditional Content
+- [x] Styling React Components
+- [x] Debugging React Apps
+- [x] Time to Practice: A Complete Practice Project
 
 ## WEEK 16
 
 ### [React - The Complete Guide 2023 (incl. React Router & Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
 
-- [ ] Diving Deeper: Working with Fragments, Portals & "Refs"
-- [ ] Advanced: Handling Side Effects, Using Reducers & Using the Context API
-- [ ] Practice Project: Building a Food Order App
-- [ ] A Look Behind The Scenes Of React & Optimization Techniques
+- [x] Diving Deeper: Working with Fragments, Portals & "Refs"
+- [x] Advanced: Handling Side Effects, Using Reducers & Using the Context API
+- [x] useEffect
+- [x] Quiz App
+- [x] Practice Project: Building a Food Order App
+- [x] A Look Behind The Scenes Of React & Optimization Techniques
 - [ ] An Alternative Way Of Building Components: Class-based Components
-- [ ] Sending Http Requests (e.g. Connecting to a Database)
-- [ ] Building Custom React Hooks
-- [ ] Working with Forms & User Input
-- [ ] Practice Project: Adding Http & Forms To The Food Order App
+- [x] Sending Http Requests (e.g. Connecting to a Database)
+- [x] Building Custom React Hooks
+- [x] Working with Forms & User Input
+- [x] Practice Project: Adding Http & Forms To The Food Order App
 
 ## WEEK 17
 
 ### [React - The Complete Guide 2023 (incl. React Router & Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
 
-- [ ] Diving into Redux (An Alternative To The Context API)
-- [ ] Advanced Redux
-- [ ] Building a Multi-Page SPA with React Router
-- [ ] Adding Authentication To React Apps
-- [ ] Deploying React Apps
+- [x] Diving into Redux (An Alternative To The Context API)
+- [x] Advanced Redux
+- [x] Building a Multi-Page SPA with React Router
+- [x] Adding Authentication To React Apps
+- [x] Deploying React Apps
 
 ## WEEK 18
 
@@ -194,19 +196,19 @@ Step by step guide to becoming a modern frontend developer
 
 ### [Material UI - The Complete Guide With React (2023) Edition](https://www.udemy.com/course/material-ui/)
 
-- [ ] Introduction
-- [ ] Setting Up Environment
-- [ ] Diving into Material UI Components One By One
-- [ ] Form Handling
-- [ ] Header Navigation Bar Components
-- [ ] Advance Components
-- [ ] Advanced Validations With React Hook Form
-- [ ] Data Grid
-- [ ] Advanced Data Grid With Project
-- [ ] Theming and Styling
-- [ ] Advance Styling with styled function
-- [ ] Dark Mode / Light Mode
-- [ ] Icons
+- [x] Introduction
+- [x] Setting Up Environment
+- [x] Diving into Material UI Components One By One
+- [x] Form Handling
+- [x] Header Navigation Bar Components
+- [x] Advance Components
+- [x] Advanced Validations With React Hook Form
+- [x] Data Grid
+- [x] Advanced Data Grid With Project
+- [x] Theming and Styling
+- [x] Advance Styling with styled function
+- [x] Dark Mode / Light Mode
+- [x] Icons
 - [ ] Grid System
 - [ ] Advanced - Responsive Styles
 - [ ] GRID Project - Build Responsive Navigation Bar With Material UI
